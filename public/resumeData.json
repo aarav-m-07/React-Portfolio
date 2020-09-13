@@ -14,8 +14,8 @@
       "state": "Maharashtra",
       "zip": "411047"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "https://aarav-mahajan.netlify.app/",
+    "resumedownload": "https://aarav-mahajan.netlify.app/",
     "social": [
       {
         "name": "facebook",
@@ -105,9 +105,15 @@
     "projects": [
       {
         "title": "Amazon Clone",
-        "category": "Amazon Clone built with (ReactJS) and Firebase sign authentication",
-        "image": "whatsapp-mern.jpeg",
+        "category": "Amazon Clone built with (ReactJS) and Firebase sign in authentication",
+        "image": "amazon-clone.png",
         "url": "https://github.com/aarav-m-07/Amazon-clone"
+      },
+      {
+        "title": "Rock-Paper-Scissors",
+        "category": "Built Rock Paper Scissors game with React",
+        "image": "rock-paper-scissors.jpeg",
+        "url": "https://github.com/aarav-m-07/rock-paper-scissors"
       }
     ]
   },
