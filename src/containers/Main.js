@@ -1,5 +1,5 @@
 import React, {Component} from "react";
-import Header from "../Components/Header";
+import Header from "../components/Header/Header";
 import Greeting from "./greeting/Greeting";
 import Skills from "./skills/Skills";
 import StackProgress from "./skillProgress/skillProgress";
